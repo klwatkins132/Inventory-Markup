@@ -1,0 +1,120 @@
+Product Name: Television
+Product Cost: $439.65
+Product Current Price: $571.55
+
+Product Name: Radio
+Product Cost: $40.00
+Product Current Price: $52.00
+
+Product Name: Computer
+Product Cost: $525.99
+Product Current Price: $683.79
+
+Product Name: Headphones
+Product Cost: $139.65
+Product Current Price: $181.55
+
+Product Name: Printer
+Product Cost: $89.94
+Product Current Price: $116.92
+
+Product Name: Monitor
+Product Cost: $189.94
+Product Current Price: $246.92
+
+Product Name: Keyboard
+Product Cost: $29.94
+Product Current Price: $38.92
+
+Product Name: Mouse
+Product Cost: $19.94
+Product Current Price: $25.92
+
+Product Name: Router
+Product Cost: $69.94
+Product Current Price: $90.92
+
+Product Name: Speakers
+Product Cost: $49.94
+Product Current Price: $64.92
+
+Product Name: Television
+Product Cost: $439.65
+Product Current Price: $571.55
+
+Product Name: Radio
+Product Cost: $40.00
+Product Current Price: $52.00
+
+Product Name: Computer
+Product Cost: $525.99
+Product Current Price: $683.79
+
+Product Name: Headphones
+Product Cost: $139.65
+Product Current Price: $181.55
+
+Product Name: Printer
+Product Cost: $89.94
+Product Current Price: $116.92
+
+Product Name: Monitor
+Product Cost: $189.94
+Product Current Price: $246.92
+
+Product Name: Keyboard
+Product Cost: $29.94
+Product Current Price: $38.92
+
+Product Name: Mouse
+Product Cost: $19.94
+Product Current Price: $25.92
+
+Product Name: Router
+Product Cost: $69.94
+Product Current Price: $90.92
+
+Product Name: Speakers
+Product Cost: $49.94
+Product Current Price: $64.92
+
+Product Name: Television
+Product Cost: $439.65
+Product Current Price: $571.55
+
+Product Name: Radio
+Product Cost: $40.00
+Product Current Price: $52.00
+
+Product Name: Computer
+Product Cost: $525.99
+Product Current Price: $683.79
+
+Product Name: Headphones
+Product Cost: $139.65
+Product Current Price: $181.55
+
+Product Name: Printer
+Product Cost: $89.94
+Product Current Price: $116.92
+
+Product Name: Monitor
+Product Cost: $189.94
+Product Current Price: $246.92
+
+Product Name: Keyboard
+Product Cost: $29.94
+Product Current Price: $38.92
+
+Product Name: Mouse
+Product Cost: $19.94
+Product Current Price: $25.92
+
+Product Name: Router
+Product Cost: $69.94
+Product Current Price: $90.92
+
+Product Name: Speakers
+Product Cost: $49.94
+Product Current Price: $64.92
+
